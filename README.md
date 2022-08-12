@@ -1,1 +1,1 @@
-# Chess-Club
+Challenge Project: Responsive Club Website
